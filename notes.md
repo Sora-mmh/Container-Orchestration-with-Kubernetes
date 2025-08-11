@@ -279,5 +279,3 @@
 - Keep K8s components updated.
 
 ***
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/77819509/a7a28b83-5623-4db6-944e-07e1bb57b383/paste.txt
