@@ -1,0 +1,18 @@
+[submodule "k8s-projs"]
+	path = k8s-projs
+	url = https://github.com/Sora-mmh/deploy-and-orchestrate-apps-with-K8s.git
+[submodule "mongo-and-mongo-express-on-k8s"]
+	path = mongo-and-mongo-express-on-k8s
+	url = https://github.com/Sora-mmh/deploy-and-orchestrate-apps-with-K8s.git
+[submodule "dashboard-ingress-on-k8s"]
+	path = dashboard-ingress-on-k8s
+	url = https://github.com/Sora-mmh/ingress.git
+[submodule "mosquitto-config-on-k8s"]
+	path = mosquitto-config-on-k8s
+	url = https://github.com/Sora-mmh/configmap-and-secret-volume-types.git
+[submodule "ms-on-k8s"]
+	path = ms-on-k8s
+	url = https://github.com/Sora-mmh/deploy-microservices-on-k8s.git
+[submodule "ms-helm-charts-on-k8s"]
+	path = ms-helm-charts-on-k8s
+	url = https://github.com/Sora-mmh/Create-Helm-Chart-for-Microservices.git
