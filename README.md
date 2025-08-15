@@ -50,5 +50,4 @@ The listed projects in this module cover:
 
 ### **7. One-Click Deployments with Helmfile**
 - Packaged every microservice into **individual Helm Charts**.  
-- **Helmfile** orchestrated multi-chart deployment (`helmfile sync`).  
-- Achieved **single-command environment rollouts** (dev / staging / prod).
+- **Helmfile** orchestrated multi-chart deployment.  
