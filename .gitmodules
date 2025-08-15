@@ -16,3 +16,6 @@
 [submodule "ms-helm-charts-on-k8s"]
 	path = ms-helm-charts-on-k8s
 	url = https://github.com/Sora-mmh/ms-helm-charts-on-k8s.git
+[submodule "deploy-from-ecr-to-k8s"]
+	path = deploy-from-ecr-to-k8s
+	url = https://github.com/Sora-mmh/deploy-from-ecr-to-k8s.git
